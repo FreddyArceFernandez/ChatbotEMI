@@ -1,0 +1,1080 @@
+{
+    "messages": [
+        {
+            "role": "system",
+            "content": "Eres un asistente virtual de la EMI. Responde preguntas sobre la institución."
+        },
+        {
+            "role": "user",
+            "content": "¿Cuántas carreras ofrece la EMI?"
+        },
+        {
+            "role": "assistant",
+            "content": "La Escuela Militar de Ingenieros (EMI) ofrece varias carreras enfocadas en la formación de profesionales en distintas áreas de la ingeniería. Entre las carreras más destacadas se encuentran Ingeniería Civil, Ingeniería Electrónica, Ingeniería de Sistemas, Ingeniería Industrial e Ingeniería de Transporte. Cada una de estas carreras tiene un plan de estudios que aborda tanto los fundamentos teóricos como la aplicación práctica en el campo militar y civil. También se pueden ofrecer especializaciones dependiendo del contexto y las necesidades actuales. Si te interesa algún programa en específico, ¡puedo darte más detalles!"
+        },
+        {
+            "role": "user",
+            "content": "¿Cuántas carreras tiene la EMI?"
+        },
+        {
+            "role": "assistant",
+            "content": "La Escuela Militar de Ingenieros (EMI) en Bolivia ofrece diversas carreras enfocadas en la ingeniería y disciplinas afines. En total, tiene cinco principales carreras: Ingeniería Civil, Ingeniería en Electrónica y Telecomunicaciones, Ingeniería en Sistemas, Ingeniería Ambiental e Ingeniería de Transporte. Cada una de estas carreras está diseñada para preparar a los estudiantes en áreas específicas de la ingeniería, combinando formación teórica y práctica. Además, la EMI también ofrece programas de posgrado y especializaciones en campos relacionados. ¿Te gustaría saber más sobre alguna de estas carreras en particular?"
+        },
+        {
+            "role": "user",
+            "content": "¿Cuántas carreras tiene la EMI?"
+        },
+        {
+            "role": "assistant",
+            "content": "La Escuela Militar de Ingenieros (EMI) en Bolivia ofrece varias carreras relacionadas con la ingeniería y la formación militar. Tradicionalmente, las carreras incluyen Ingeniería Civil, Ingeniería de Transporte, Ingeniería en Telecomunicaciones, Ingeniería en Sistemas y muchas otras en campos afines. Además, la EMI se dedica a preparar a sus cadetes no solo en aspectos técnicos, sino también en liderazgo, ética y disciplina militar. Si necesitas información más específica sobre un programa en particular, ¡pregúntame!"
+        },
+        {
+            "role": "user",
+            "content": "¿Cuántas carreras tiene la EMI?"
+        },
+        {
+            "role": "assistant",
+            "content": "La EMI ofrece 100 carreras a nivel nacional."
+        },
+        {
+            "role": "user",
+            "content": "¿cuales son los valores fudamentales de la Escuela Miitar de Ingeneria?"
+        },
+        {
+            "role": "assistant",
+            "content": "Los valores fundamentales de la Escuela Militar de Ingeniería son el liderazgo y la disciplina. Estos principios son esenciales para la comunidad educativa y se promueven dentro del marco de formación profesional y técnica que ofrece la institución. Además, se fomenta la interacción social y la investigación científica y tecnológica, lo cual complementa estos valores y contribuye a la formación integral de sus estudiantes."
+        },
+        {
+            "role": "user",
+            "content": "¿cuales son los valores fudamentales de la Escuela Miitar de Ingeneria?"
+        },
+        {
+            "role": "assistant",
+            "content": "Los valores fundamentales de la Escuela Militar de Ingeniería son el liderazgo y la disciplina. Estos valores son cruciales para el desarrollo de los estudiantes dentro de esta comunidad educativa, y son fomentados a lo largo de su formación profesional. Además, la EMI promueve la interacción social y la investigación científica y tecnológica, lo que complementa estos valores y ayuda a formar profesionales íntegros y comprometidos con su entorno."
+        },
+        {
+            "role": "user",
+            "content": "¿que ofertas educativas ofrece la Escuela Militar de Ingeneria?"
+        },
+        {
+            "role": "assistant",
+            "content": "La Escuela Militar de Ingeniería ofrece una extensa oferta educativa que incluye niveles de pregrado, grado y posgrado. En el nivel universitario de grado, destacan las siguientes carreras: Ingeniería Civil, Ingeniería Petrolera, Ingeniería Electrónica, Ingeniería Comercial, Ingeniería de Sistemas, Ingeniería Agroindustrial, Ingeniería Química, Ingeniería Financiera, Ingeniería de Alimentos, Ingeniería Mecatrónica y Ingeniería en Telecomunicaciones. Esta variada gama de especialidades está orientada a formar profesionales competentes en distintos ámbitos de la ingeniería, contribuyendo así al desarrollo técnico y científico del país."
+        },
+        {
+            "role": "user",
+            "content": "¿que ofertas educativas ofrece la Escuela Militar de Ingeneria?"
+        },
+        {
+            "role": "assistant",
+            "content": "La Escuela Militar de Ingeniería ofrece una amplia y variada oferta educativa que abarca niveles de pregrado, grado y posgrado. En el nivel universitario de grado, destacan las siguientes carreras:\n\n- Ingeniería Civil\n- Ingeniería Petrolera\n- Ingeniería Electrónica\n- Ingeniería Comercial\n- Ingeniería de Sistemas\n- Ingeniería Agroindustrial\n- Ingeniería Química\n- Ingeniería Financiera\n- Ingeniería de Alimentos\n- Ingeniería Mecatrónica\n- Ingeniería en Telecomunicaciones\n\nEl énfasis de esta institución está en la formación técnica y profesional de los estudiantes, promoviendo valores como el liderazgo y la disciplina, así como la interacción social y la investigación científica y tecnológica."
+        },
+        {
+            "role": "user",
+            "content": " What is the military military?\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "La Escuela Militar de Ingeniería (EMI) es un centro de estudios especializado en el ámbito de la ingeniería en Bolivia. Fue fundada en 1950 por iniciativa del Ejército de Bolivia con el objetivo de crear un espacio de formación profesional técnica en diversas disciplinas de la ingeniería. La EMI no solo ofrece programas de grado, sino también de posgrado, abordando una amplia gama de carreras, incluyendo Ingeniería Civil, Petrolera, Electrónica, Comercial, de Sistemas, Agroindustrial, Química, Financiera, de Alimentos, Mecatrónica y Telecomunicaciones.\n\nAdemás, la EMI se fundamenta en valores como el liderazgo y la disciplina, fomentando la interacción social y la investigación científica y tecnológica entre sus estudiantes. A lo largo de su historia, la institución ha evolucionado desde tres espacios previos en 1936, que sentaron las bases para su creación, destacando la Escuela de Transmisiones, el Instituto Geográfico Militar y la Escuela Central Técnica. En resumen, la EMI se posiciona como un referente en la educación superior en ingeniería en Bolivia."
+        },
+        {
+            "role": "user",
+            "content": " What is the military school of engineering?\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "La Escuela Militar de Ingeniería (EMI) es un centro de estudios especializado en ingeniería en Bolivia, creado por iniciativa del Ejército de Bolivia. Su establecimiento responde a la necesidad de generar un espacio de formación profesional técnica en diferentes niveles. Desde su fundación en 1950, la EMI ha evolucionado y se ha especializado en ofrecer una amplia gama de programas educativos, abarcando desde niveles de pregrado hasta posgrado.\n\nLa institución destaca por promover valores como el liderazgo y la disciplina, fomentando la interacción social y la investigación científica y tecnológica entre sus estudiantes. Su oferta educativa a nivel de grado incluye carreras como Ingeniería Civil, Petrolera, Electrónica, Comercial, de Sistemas, Agroindustrial, Química, Financiera, de Alimentos, Mecatrónica y Telecomunicaciones. Además, la EMI ha heredado antecedentes importantes desde 1936, cuando se establecieron escuelas que sentaron las bases para su creación, como la Escuela de Transmisiones, el Instituto Geográfico Militar y la Escuela Central Técnica. En resumen, la EMI es una institución clave en la formación de profesionales del campo de la ingeniería en Bolivia."
+        },
+        {
+            "role": "user",
+            "content": " What is my little girl's school?\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Lo siento, pero no tengo información sobre la escuela de tu pequeña. Sin embargo, puedo hablar sobre la Escuela Militar de Ingeniería (EMI) en Bolivia, que es un centro de estudios especializado en ingeniería. Si quieres saber más sobre la EMI o cualquier otro tema relacionado, estaré encantado de ayudar."
+        },
+        {
+            "role": "user",
+            "content": " What is the military school of engineering?\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "La Escuela Militar de Ingeniería (EMI) es una institución educativa de Bolivia que se especializa en la formación en ingeniería. Fue creada por el Ejército de Bolivia en respuesta a la necesidad de establecer un espacio para la formación técnica a diferentes niveles. Aunque la EMI fue formalmente fundada en 1950, sus raíces se remontan a 1936, cuando se establecieron varias instituciones educativas que sentaron las bases para su creación, como la Escuela de Transmisiones, el Instituto Geográfico Militar y la Escuela Central Técnica.\n\nLa EMI tiene un compromiso con la educación superior y ofrece una amplia gama de programas de grado y posgrado. Fomenta valores importantes como el liderazgo y la disciplina, lo que la convierte en una comunidad educativa dinámica que promueve la interacción social y la investigación científica y tecnológica. En el nivel de grado, destacan carreras como Ingeniería Civil, Petrolera, Electrónica, Comercial, de Sistemas, Agroindustrial, Química, Financiera, de Alimentos, Mecatrónica y Telecomunicaciones. En resumen, la EMI es una institución clave para la formación profesional de ingenieros en Bolivia."
+        },
+        {
+            "role": "user",
+            "content": " What is the military school of Gineria?\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Lo siento, pero no tengo información sobre una \"Escuela Militar de Gineria\". Sin embargo, puedo proporcionarte detalles sobre la Escuela Militar de Ingeniería (EMI) en Bolivia. Como mencioné anteriormente, es un centro de estudios especializado en ingeniería, creado por el Ejército de Bolivia para ofrecer formación profesional técnica en diversos niveles. Si te interesa, puedo compartir más sobre sus programas académicos o su historia. ¡Solo házmelo saber!"
+        },
+        {
+            "role": "user",
+            "content": " What is the military school of engineering?\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "La Escuela Militar de Ingeniería (EMI) es un centro educativo especializado en ingeniería ubicado en Bolivia. Fue establecida por el Ejército de Bolivia para crear un espacio que satisfaga la necesidad de formación profesional técnica en diversos niveles. Aunque se fundó oficialmente en 1950, tiene sus raíces en 1936, cuando se formaron tres instituciones educativas que prepararon el terreno para su creación: la Escuela de Transmisiones, que formaba ingenieros eléctricos; el Instituto Geográfico Militar, enfocado en Topografía y Geodesia; y la Escuela Central Técnica, que instruía a técnicos ferrocarrileros y mecánicos.\n\nLa EMI ofrece una amplia variedad de programas de educación superior, incluyendo carreras de grado y posgrado, con un fuerte énfasis en los valores de liderazgo y disciplina. La oferta académica en el nivel de grado incluye carreras como Ingeniería Civil, Petrolera, Electrónica, Comercial, de Sistemas, Agroindustrial, Química, Financiera, de Alimentos, Mecatrónica y Telecomunicaciones. Además, fomenta la interacción social y la investigación científica y tecnológica, posicionándose como una de las mejores universidades en el país. En resumen, la EMI es fundamental para la formación de ingenieros en Bolivia."
+        },
+        {
+            "role": "user",
+            "content": " How many homemade schools do you have in the school to invite in January?\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Lo siento, pero no tengo información sobre cuántas \"homemade schools\" hay en la Escuela Militar de Ingeniería ni sobre invitaciones en enero. Mi conocimiento se limita a la información sobre la oferta educativa y la historia de la EMI que proporcionaste, que incluye diversas carreras de ingeniería, pero no se menciona nada sobre escuelas caseras o eventos específicos en enero. Si tienes otra pregunta sobre la EMI, estaré encantado de ayudar."
+        },
+        {
+            "role": "user",
+            "content": " (speaking in foreign language)\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Claro, estoy aquí para ayudarte. ¿Tienes alguna pregunta específica sobre la Escuela Militar de Ingeniería (EMI) o algo relacionado con su oferta educativa? Puedo ofrecerte detalles sobre las carreras que se imparten, la historia de la EMI o cualquier otro aspecto que te interese. ¡Háblame!"
+        },
+        {
+            "role": "user",
+            "content": " [ Silence ]\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Entiendo que a veces el silencio puede ser un momento de reflexión. Si necesitas tiempo para pensar en una pregunta sobre la Escuela Militar de Ingeniería o cualquier otra cosa relacionada, estoy aquí para ayudarte cuando estés listo. Puedes preguntar sobre la historia de la EMI, sus carreras, o cualquier otro tema que te interese. ¡No dudes en aprovechar este espacio!"
+        },
+        {
+            "role": "user",
+            "content": " [BLANK_AUDIO]\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Parece que estás en un momento de pausa o reflexión. Si tienes alguna pregunta en mente sobre la Escuela Militar de Ingeniería (EMI) o si hay algún tema del que te gustaría hablar, estoy aquí para ayudarte. Puedes preguntarme sobre la historia de la EMI, las carreras que ofrecen, o cualquier otro aspecto que te interese. ¡No dudes en compartir tus pensamientos!"
+        },
+        {
+            "role": "user",
+            "content": " (speaking in foreign language)\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "¡Por supuesto! Estoy aquí para ayudarte con cualquier duda o pregunta que tengas sobre la Escuela Militar de Ingeniería (EMI). Puedes hablarme sobre sus programas académicos, su historia, o cualquier otro tema que te interese dentro del ámbito de la ingeniería. Si estás interesado en alguna carrera específica, por ejemplo, Ingeniería Civil o Electrónica, también puedo proporcionarte más detalles al respecto. ¡Háblame!"
+        },
+        {
+            "role": "user",
+            "content": " [BLANK_AUDIO]\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Parece que estás en un momento de pausa o reflexión. Si tienes una pregunta sobre la Escuela Militar de Ingeniería (EMI) o un tema relacionado que te gustaría explorar, no dudes en decírmelo. Estoy aquí para ayudarte con información sobre sus programas académicos, su historia, o incluso sobre las distintas carreras que ofrecen. ¡Cuando estés listo, estaré encantado de responder!"
+        },
+        {
+            "role": "user",
+            "content": " Who is the Emmy?\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "No tengo información sobre \"the Emmy\" en el contexto que has proporcionado sobre la Escuela Militar de Ingeniería (EMI). Si te refieres a algo específico dentro de la EMI o en otro contexto, estaré encantado de ayudarte si puedes darme un poco más de información o aclarar tu pregunta. ¡Házmelo saber!"
+        },
+        {
+            "role": "user",
+            "content": " [BLANK_AUDIO]\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Entiendo que quizás estés pensando en algo o simplemente disfrutando del silencio. Si en algún momento tienes una pregunta o tema que te gustaría discutir sobre la Escuela Militar de Ingeniería (EMI) o cualquier otra cosa, estaré aquí para ayudarte. Puedes preguntar sobre sus programas académicos, su historia, o las diferentes carreras que ofrece. ¡No dudes en compartir tus inquietudes cuando estés listo!"
+        },
+        {
+            "role": "user",
+            "content": " [BLANK_AUDIO]\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Parece que estás en un momento de pausa o reflexión. Si en cualquier momento tienes una pregunta sobre la Escuela Militar de Ingeniería (EMI) o un tema relacionado, no dudes en decírmelo. Estoy aquí para ofrecerte información sobre sus programas académicos, su historia o las diversas carreras que ofrecen. ¡No dudes en compartir tus inquietudes cuando estés listo!"
+        },
+        {
+            "role": "user",
+            "content": " [BLANK_AUDIO]\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Parece que te encuentras en un silencio contemplativo o simplemente tomando un momento de pausa. Estoy aquí para ayudarte con cualquier pregunta o tema que desees discutir sobre la Escuela Militar de Ingeniería (EMI). Si tienes curiosidad sobre los programas académicos, la historia de la institución o detalles acerca de las diferentes carreras que ofrecen, no dudes en decírmelo. ¡Cuando estés listo, estaré encantado de responder!"
+        },
+        {
+            "role": "user",
+            "content": " [BLANK_AUDIO]\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Parece que estás en un momento de reflexión o quizás prefieres el silencio. Si en algún momento deseas compartir una pregunta o un tema relacionado con la Escuela Militar de Ingeniería (EMI), estaré encantado de ayudarte. Puedo ofrecerte información sobre su historia, sus programas académicos de grado y posgrado, o los valores fundamentales de esta institución, como el liderazgo y la disciplina. ¡No dudes en preguntar cuando te sientas listo!"
+        },
+        {
+            "role": "user",
+            "content": " Pantas caseras tiene la escuela militar de ingeniería.\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "En el contexto que proporcionaste sobre la Escuela Militar de Ingeniería (EMI), no se menciona información específica acerca de \"pantas caseras\" ni sobre instalaciones específicas como las residencias o alojamientos para estudiantes. La información se centra más en la oferta educativa, la historia y los valores fundamentales de la institución. Si hay algún detalle particular que quisieras saber sobre la EMI, estaré encantado de ayudarte si me das un poco más de información o aclaras tu pregunta. ¡Házmelo saber!"
+        },
+        {
+            "role": "user",
+            "content": " What is the military school?\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "The Escuela Militar de Ingeniería (EMI) is a specialized engineering education institution in Bolivia, established by the Bolivian Army to create a space for professional technical training at various levels. Founded in 1950, it has roots tracing back to 1936 with three precursor institutions: the School of Transmissions, which trained electrical engineers; the Military Geographic Institute, focused on Topography and Geodesy; and the Central Technical School, which trained railway and mechanical technicians.\n\nEMI provides higher education with a range of undergraduate and postgraduate programs, emphasizing leadership and discipline as fundamental values. Its educational offerings include degrees in Civil Engineering, Petroleum Engineering, Electronics, Business, Systems, Agroindustrial, Chemical, Financial, Food, Mechatronics, and Telecommunications, among others. The institution aims to position itself as one of the leading universities in the country, promoting social interaction and scientific and technological research within its academic community. If you have more specific questions about its programs or history, feel free to ask!"
+        },
+        {
+            "role": "user",
+            "content": " (speaking in foreign language)\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Parece que te gustaría que continuemos en un idioma diferente o que hablemos de manera más general. Si deseas, puedo seguir compartiendo información sobre la Escuela Militar de Ingeniería (EMI) en español o en otro idioma que prefieras. Si tienes preguntas específicas o temas de interés que quieras explorar, no dudes en decírmelo. Estoy aquí para ayudar en lo que necesites sobre la EMI, sus programas académicos o su historia. ¡Espero tu respuesta!"
+        },
+        {
+            "role": "user",
+            "content": " Cuando se fundó.\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "La Escuela Militar de Ingeniería (EMI) fue fundada en el año 1950. Sin embargo, su creación se apoyó en antecedentes que datan de 1936, cuando se establecieron tres instituciones que posibilitaron su desarrollo: la Escuela de Transmisiones, el Instituto Geográfico Militar y la Escuela Central Técnica. Si necesitas más información sobre la EMI o su historia, no dudes en preguntar. ¡Estoy aquí para ayudarte!"
+        },
+        {
+            "role": "user",
+            "content": " You are the military school of engineering.\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "I am not the Escuela Militar de Ingeniería (EMI) itself, but I can provide you with detailed information about it! The EMI is a specialized engineering education institution in Bolivia, established by the Bolivian Army in 1950. It focuses on providing professional technical training at various levels and has a diverse range of undergraduate and postgraduate programs. The institution values leadership and discipline, fostering social interaction and scientific research among its community.\n\nIf you need to know more about its history, programs, or any other aspect, feel free to ask! I'm here to assist you with any questions you might have about the EMI."
+        },
+        {
+            "role": "user",
+            "content": " [BLANK_AUDIO]\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Parece que no has formulado una pregunta específica. Pero si tienes alguna consulta sobre la Escuela Militar de Ingeniería (EMI), su historia, las carreras que ofrece, o sobre la infraestructura de sus campus, ¡estaré encantado de ayudarte! ¿Qué te gustaría saber?"
+        },
+        {
+            "role": "user",
+            "content": " [BLANK_AUDIO]\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Parece que no has formulado una pregunta específica nuevamente. Si estás interesado en detalles sobre la historia de la Escuela Militar de Ingeniería (EMI), las carreras que ofrece, su infraestructura, o cualquier otro aspecto, ¡no dudes en preguntar! Estoy aquí para ayudarte con cualquier información que necesites. ¿Cuál es tu consulta?"
+        },
+        {
+            "role": "user",
+            "content": " [BLANK_AUDIO]\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Parece que no has indicado una pregunta específica nuevamente. Si necesitas información sobre la Escuela Militar de Ingeniería (EMI), su historia, los programas académicos que ofrece, o sobre la infraestructura de sus campus en Cochabamba, ¡no dudes en preguntarme! Estoy aquí para ayudarte con cualquier consulta que tengas. ¿En qué puedo asistirte hoy?"
+        },
+        {
+            "role": "user",
+            "content": " [BLANK_AUDIO]\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Parece que nuevamente no has formulado una pregunta específica. Si estás interesado en más información sobre la Escuela Militar de Ingeniería (EMI), su historia, las carreras que ofrece, sus instalaciones, o cualquier otro aspecto, ¡no dudes en preguntar! Estoy aquí para proporcionarte la información que necesites. ¿Qué te gustaría saber?"
+        },
+        {
+            "role": "user",
+            "content": " [BLANK_AUDIO]\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Parece que aún no has formulado una pregunta específica. Si tienes curiosidad sobre la Escuela Militar de Ingeniería (EMI), su historia, las carreras que ofrece, la infraestructura de sus campus en Cochabamba, o cualquier otro aspecto relacionado con esta institución, ¡estoy aquí para ayudarte! Simplemente formula tu pregunta y haré lo posible por proporcionarte la información que necesitas. ¿Qué te gustaría saber?"
+        },
+        {
+            "role": "user",
+            "content": " [BLANK_AUDIO]\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Parece que no has proporcionado una pregunta específica. Si tienes alguna consulta sobre la Escuela Militar de Ingeniería (EMI), como sus carreras, su historia, la infraestructura de sus campus, o cualquier otra cosa, ¡estaré encantado de ayudarte! Solo hazme saber lo que quisieras preguntar y te daré la información que necesites. ¿Qué te gustaría saber?"
+        },
+        {
+            "role": "user",
+            "content": " [BLANK_AUDIO]\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Parece que no has formulado nuevamente una pregunta específica. Si quieres saber más sobre la Escuela Militar de Ingeniería (EMI), su historia, las carreras que ofrece, o la infraestructura de sus diferentes campus en Cochabamba, ¡estoy aquí para ayudarte! Simplemente dime qué te gustaría consultar, y estaré más que feliz de proporcionarte la información que necesites. ¿Cuál es tu pregunta?"
+        },
+        {
+            "role": "user",
+            "content": " What do you think of the emi?\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "La Escuela Militar de Ingeniería (EMI) en Cochabamba parece ser una institución muy comprometida con la formación de ingenieros de alta calidad. Fundada en 1950, cuenta con una rica historia que se remonta a 1936 con el establecimiento de instituciones precursoras. Esto muestra un fuerte legado y tradición en la educación técnica y profesional en ingeniería.\n\nUno de los aspectos destacados de la EMI es su diversidad de carreras, que incluye Ingeniería Civil, Ingeniería Comercial, Ingeniería de Sistemas, Ingeniería Agroindustrial y Ingeniería Electrónica. Esto proporciona a los estudiantes una amplia gama de opciones para elegir según sus intereses y aspiraciones profesionales.\n\nAdemás, la infraestructura de la EMI en sus campus es moderna y está diseñada para apoyar un aprendizaje integral. Por ejemplo, el Campus EMI Lanza cuenta con laboratorios especializados en redes, electrónica, y espacios para conferencias, lo que permite a los estudiantes tener una experiencia práctica sólida. El Campus EMI 23 de Marzo también ofrece instalaciones como laboratorios de física y química, lo que complementa aún más la formación teórica con práctica.\n\nLos reconocimientos y acreditaciones que ha recibido, como el apoyo del MERCOSUR y la autorización para extender diplomas académicos y títulos, son un testimonio de la calidad de su educación y su compromiso con los estándares internacionales.\n\nEn conclusión, la EMI parece ser una excelente opción para aquellos interesados en una formación rigurosa en ingeniería, con el respaldo de una larga tradición y unas instalaciones que facilitan un aprendizaje práctico y significativo."
+        },
+        {
+            "role": "user",
+            "content": " What is the military school of engineering?\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "The Military School of Engineering (EMI) is an esteemed institution in Cochabamba, Bolivia, dedicated to providing high-quality education in various engineering fields. Founded on October 26, 1950, under the Supreme Decree No. 2226, EMI aims to train competent engineers who can contribute effectively to society and the military.\n\nEMI offers several engineering careers, including:\n\n- Civil Engineering\n- Commercial Engineering\n- Systems Engineering\n- Agroindustrial Engineering\n- Electronic Engineering\n\nThe school has a rich history, stemming from the establishment of precursor institutions in 1936, such as the School of Transmissions and the Military Geographical Institute. These institutions laid the groundwork for what would eventually evolve into the EMI.\n\nThe school is renowned for its modern and well-equipped infrastructure spread across different campuses. For instance, the EMI Lanza Campus includes facilities like auditoriums, networking laboratories, and electronic laboratories designed to enhance practical learning experiences for students. Similarly, the EMI 23 de Marzo Campus features laboratories in physics and chemistry, further supporting the practical aspects of engineering education.\n\nIn terms of accreditation, EMI is recognized internationally, particularly by MERCOSUR, and is part of the Bolivian University System represented by the CEUB. This recognition allows EMI to grant academic diplomas and national provision titles, solidifying its status as a legitimate and authoritative institution for engineering education in Bolivia.\n\nOverall, the EMI is committed to providing a comprehensive educational experience that blends theoretical knowledge with practical application, ensuring that graduates are well-prepared for their future careers in engineering."
+        },
+        {
+            "role": "user",
+            "content": " ¿Qué caseras tiene la escuela militar de ingeniería?\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Ofrece 5 carreras a nivel de Licenciatura y 5 a nivel Tecnico Superior"
+        },
+        {
+            "role": "user",
+            "content": " ¿Cuáles son estas calleras?\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Ingeniería Civil, Ingeniería Comercial, Ingeniería de Sistemas, Ingeniería Agroindustrial, Ingeniería en Sistemas y Sistemas Electrónicos."
+        },
+        {
+            "role": "user",
+            "content": " Valores de la EMI.\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Ingeniería Civil, Ingeniería Comercial, Ingeniería de Sistemas, Ingeniería Agroindustrial, Ingeniería en Sistemas y Sistemas Electrónicos."
+        },
+        {
+            "role": "user",
+            "content": " 2. ¿Cuáles son los valores de la escuela militar de Israel?\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Ingeniería Civil, Ingeniería Comercial, Ingeniería de Sistemas, Ingeniería Agroindustrial, Ingeniería en Sistemas y Sistemas Electrónicos."
+        },
+        {
+            "role": "user",
+            "content": " when the military school of engineering was founded.\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "La Escuela Militar de Ingeniería (EMI) fue fundada en 1950. Sin embargo, es interesante notar que ya en 1936 existían tres instituciones que sentaron las bases para su creación: la Escuela de Transmisiones, el Instituto Geográfico Militar, y la Escuela Central Técnica. Cada una de estas instituciones contribuía a la formación de profesionales en distintas áreas de la ingeniería y la técnica."
+        },
+        {
+            "role": "user",
+            "content": " Cuales son las caseras de la Escuela Militar de Ingeniería?\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "La Escuela Militar de Ingeniería (EMI) en Bolivia ofrece una formación integral a sus estudiantes, con un enfoque en la ingeniería y la formación militar. Sin embargo, no tengo información específica sobre las \"caseras\" de la EMI. Si te refieres a las residencias estudiantiles o algún otro tipo de alojamiento, no tengo datos concretos sobre ello. ¿Te gustaría que te hable más sobre sus programas de estudio, su historia o alguna otra cosa relacionada?"
+        },
+        {
+            "role": "user",
+            "content": " ¿Cuáles son las caceras de la escuela militar?\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "La Escuela Militar de Ingeniería (EMI) en Bolivia se centra en la educación técnica y militar, pero no tengo información específica sobre las \"caceras\" de la escuela. Si te refieres a términos como actividades, eventos o algún aspecto específico de la vida estudiantil, no tengo esos detalles. Puedo ofrecerte información sobre su estructura académica, los campos de ingeniería que se enseñan o detalles sobre su historia. ¿Te gustaría saber más sobre alguno de estos temas?"
+        },
+        {
+            "role": "user",
+            "content": " (speaking in foreign language)\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "La Escuela Militar de Ingeniería (EMI) en Bolivia se destaca por su enfoque en la formación de ingenieros que integran conocimientos técnicos con disciplina militar. Si deseas hablar en otro idioma o en un contexto específico, estaré encantado de ayudarte. Además, puedo proporcionarte más información sobre sus programas académicos, su historia o cualquier otro aspecto relacionado. ¿Qué te gustaría saber?"
+        },
+        {
+            "role": "user",
+            "content": " when the military engineering school was founded.\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "No tengo información específica sobre la fecha de fundación de la Escuela Militar de Ingeniería (EMI). Sin embargo, es un centro importante de formación en ingeniería en Bolivia. Si deseas, puedo ayudarte con otros aspectos relacionados, como los programas de estudio que ofrece o su misión y visión. ¿Te gustaría explorar alguno de estos temas?"
+        },
+        {
+            "role": "user",
+            "content": " when the military engineering school was founded.\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "No tengo información específica sobre la fecha de fundación de la Escuela Militar de Ingeniería (EMI). Sin embargo, es un establecimiento clave para la formación en ingeniería en Bolivia. Si te interesa, puedo ayudarte con otros aspectos relacionados, como sus programas educativos, su misión, visión o cualquier otra consulta que tengas en mente. ¿Te gustaría saber más sobre alguno de estos temas?"
+        },
+        {
+            "role": "user",
+            "content": " when the military engineering school was founded.\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "La EMI fue fundada en 1950."
+        },
+        {
+            "role": "user",
+            "content": " where it is located.\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "La Escuela Militar de Ingeniería (EMI) se encuentra ubicada en La Paz, Bolivia. Es un centro de estudios que se especializa en formar profesionales en diversas ramas de la ingeniería, y su enfoque militar también implica una formación integral en liderazgo y disciplina. Si necesitas más información sobre su historia, programas académicos o actividades, no dudes en preguntar."
+        },
+        {
+            "role": "user",
+            "content": " ¿Cuántas calleras tiene la EMI?\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Ofrece 5 carreras a nivel de Licenciatura y 5 a nivel Técnico Superior."
+        },
+        {
+            "role": "user",
+            "content": " La EMI is una institución pública o privada.\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Es una institución pública."
+        },
+        {
+            "role": "user",
+            "content": " (scissors snipping)\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Lo siento, pero no puedo responder a esa pregunta ya que no tengo suficiente información en el contexto proporcionado. Si tienes otra pregunta sobre la Escuela Militar de Ingeniería o cualquier otro tema, estaré encantado de ayudarte."
+        },
+        {
+            "role": "user",
+            "content": " when the military engineering school was founded.\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "La EMI fue fundada en 1950."
+        },
+        {
+            "role": "user",
+            "content": " (speaking in foreign language)\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Lo siento, pero no puedo responder a esa pregunta ya que no tengo suficiente información en el contexto proporcionado. Si tienes otra pregunta sobre la Escuela Militar de Ingeniería o cualquier otro tema, estoy aquí para ayudar."
+        },
+        {
+            "role": "user",
+            "content": " you\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Lo siento, pero no puedo responder a esa pregunta ya que no tengo suficiente información en el contexto proporcionado. Si tienes otra pregunta específica sobre la Escuela Militar de Ingeniería o algún otro tema, estaré encantado de ayudarte."
+        },
+        {
+            "role": "user",
+            "content": " you\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "La Escuela Militar de Ingeniería (EMI) de Bolivia es un prestigioso centro educativo especializado en diversas ramas de la ingeniería. Fundada en 1898, su misión principal es formar profesionales con una sólida base académica y una fuerte ética de servicio al país. La EMI ofrece programas en áreas como ingeniería civil, ingeniería electrónica, ingeniería en computación, entre otras. También se destaca por su enfoque integral que combina la formación académica con disciplinas militares y valores cívicos, preparando a sus estudiantes para servir en las Fuerzas Armadas y en el desarrollo del país. Además, la EMI se involucra en proyectos de investigación y desarrollo que contribuyen al crecimiento tecnológico y social de Bolivia. ¿Te gustaría saber algo más específico sobre la escuela o sus programas?"
+        },
+        {
+            "role": "user",
+            "content": " What is the Military School of Engineering?\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "La EMI fue fundada en 1950."
+        },
+        {
+            "role": "user",
+            "content": " >> [FOREIGN]\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Lo siento, pero no entiendo lo que significa \">> [FOREIGN]\". ¿Podrías reformular tu pregunta o proporcionar más contexto para que pueda ayudarte mejor? Estoy aquí para compartir información sobre la Escuela Militar de Ingeniería y sus especialidades en ingeniería en Bolivia."
+        },
+        {
+            "role": "user",
+            "content": " (speaking in foreign language)\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Lo siento, pero no entiendo lo que significa \"(speaking in foreign language)\". Si tienes preguntas específicas sobre la Escuela Militar de Ingeniería (EMI) de Bolivia, estaré encantado de responderlas. Puedo proporcionarte información sobre sus programas, historia o cualquier otro aspecto relacionado con la escuela. ¿Cómo puedo ayudarte?"
+        },
+        {
+            "role": "user",
+            "content": " [Spanish]\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "La Escuela Militar de Ingeniería (EMI) es un destacado centro de estudios en Bolivia, especializado en diversas áreas de la ingeniería. Su enfoque no solo se centra en la formación técnica y académica de los estudiantes, sino que también incorpora valores militares y cívicos, preparando a los futuros ingenieros para servir a su país. La EMI ofrece programas en especialidades como ingeniería civil, ingeniería electrónica, ingeniería en computación, entre otros. Desde su fundación en 1898, ha sido fundamental en el desarrollo profesional de muchos ingenieros en Bolivia. ¿Hay algún aspecto específico que te gustaría conocer sobre la EMI?"
+        },
+        {
+            "role": "user",
+            "content": " (speaking in foreign language)\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Lo siento, pero no entiendo lo que significa \"(speaking in foreign language)\". Si tienes alguna pregunta específica sobre la Escuela Militar de Ingeniería (EMI) de Bolivia, estaré encantado de responderla. Puedo proporcionarte detalles sobre sus programas académicos, historia y más. ¿Cómo puedo ayudarte hoy?"
+        },
+        {
+            "role": "user",
+            "content": " you\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "La Escuela Militar de Ingeniería (EMI) es un importante centro de estudios en Bolivia, especializado en diversas disciplinas de la ingeniería. Desde su fundación en 1898, la EMI ha trabajado para preparar a sus estudiantes con una educación de calidad, combinando formación académica con un enfoque en valores cívicos y militares. Esto incluye la formación en áreas como la ingeniería civil, electrónica, y computación, entre otras. Además, la escuela tiene un fuerte compromiso con la investigación y el desarrollo, contribuyendo así al avance tecnológico y social del país. Si tienes alguna pregunta específica o algo más que desees saber sobre la EMI, ¡estaré encantado de ayudarte!"
+        },
+        {
+            "role": "user",
+            "content": " you\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Parece que tu mensaje \"you\" no es claro en el contexto de la conversación. Si te refieres a obtener más información sobre la Escuela Militar de Ingeniería (EMI) o sobre algún tema específico relacionado con ella, estaré encantado de ayudarte. La EMI es conocida por su enfoque en la formación de ingenieros capacitados y comprometidos con el desarrollo de Bolivia. ¿Hay algo particular que te gustaría saber o discutir sobre la EMI?"
+        },
+        {
+            "role": "user",
+            "content": " Cuales son los valores de la EMI?\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Ingeniería Civil, Ingeniería Comercial, Ingeniería de Sistemas, Ingeniería Agroindustrial, Ingeniería Electrónica."
+        },
+        {
+            "role": "user",
+            "content": " ¿Cuáles son las carreras de la escuela militar de Ingeniería?\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "La EMI fue fundada en 1950."
+        },
+        {
+            "role": "user",
+            "content": " you\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Parece que has escrito solo \"you\", lo cual no proporciona mucha información sobre lo que necesitas. Si te gustaría preguntarme algo específico sobre la Escuela Militar de Ingeniería (EMI) o cualquier otro tema relacionado, estaré encantado de ayudarte. La EMI, como mencioné antes, ofrece una sólida formación en diversas especialidades de ingeniería y es un pilar en la educación técnica en Bolivia. ¿Hay algo en particular que desees saber?"
+        },
+        {
+            "role": "user",
+            "content": " \"Cuando fue fundada la EMI?\"\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "La Escuela Militar de Ingeniería (EMI) fue fundada en el año 1898. Desde entonces, ha sido un pilar en la educación de ingenieros en Bolivia, integrando formación técnica y educación cívica y militar. Si quieres saber más sobre su historia o programas académicos, ¡no dudes en preguntar!"
+        },
+        {
+            "role": "user",
+            "content": " you\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Parece que has escrito \"you\" nuevamente, lo cual no me da mucha información sobre lo que necesitas. Si tienes alguna pregunta específica o un tema que te gustaría discutir sobre la Escuela Militar de Ingeniería (EMI) en Bolivia, estaré encantado de ayudarte. Ya hemos hablado sobre su fundación en 1898 y su enfoque en la formación en diversas disciplinas de la ingeniería. ¿Hay algo más que te gustaría saber?"
+        },
+        {
+            "role": "user",
+            "content": " where I can get more information about the military school.\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Puedes visitar el sitio oficial de la EMI en Cochabamba: https://cochabamba.emi.edu.bo/"
+        },
+        {
+            "role": "user",
+            "content": " The Military School of Engineering is a public or private institution.\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Es una institución pública."
+        },
+        {
+            "role": "user",
+            "content": " (speaking in foreign language)\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Parece que tu pregunta \"speaking in foreign language\" no es clara en el contexto de nuestra conversación. Si te gustaría que hable sobre la Escuela Militar de Ingeniería (EMI) en otro idioma o que me refiera a un tema específico que involucre lenguas extranjeras, házmelo saber. La EMI no solo se enfoca en la ingeniería técnica, sino también en la formación integral de sus estudiantes, lo que a veces incluye el aprendizaje de idiomas como parte de su currículo. ¿Hay algo en particular que desees discutir?"
+        },
+        {
+            "role": "user",
+            "content": " [Spanish]\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Parece que has escrito \"[Spanish]\", lo cual indica que deseas seguir en español. ¡Perfecto! Estoy aquí para ayudarte con cualquier pregunta o tema relacionado con la Escuela Militar de Ingeniería (EMI) en Bolivia. La EMI es una institución importante que ofrece diversas especialidades en ingeniería y se enfoca en la formación integral de sus cadetes. Si tienes alguna pregunta específica o información que te gustaría conocer, ¡adelante!"
+        },
+        {
+            "role": "user",
+            "content": " What are the careers of the military engineering school?\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Ingeniería Civil, Ingeniería Comercial, Ingeniería de Sistemas, Ingeniería Agroindustrial, Ingeniería Electrónica."
+        },
+        {
+            "role": "user",
+            "content": " [Spanish]\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Parece que has escrito nuevamente \"[Spanish]\". Estoy aquí para continuar nuestra conversación en español. Si tienes preguntas específicas sobre la Escuela Militar de Ingeniería (EMI), sus programas académicos, su historia o cualquier otro aspecto, no dudes en compartirlas. La EMI es reconocida por su compromiso con la excelencia educativa y la formación de profesionales en el ámbito de la ingeniería en Bolivia. ¿Hay algo en particular que te gustaría saber?"
+        },
+        {
+            "role": "user",
+            "content": " ¿Cuántas carreras tiene?\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Ofrece 5 carreras a nivel de Licenciatura y 5 a nivel Técnico Superior."
+        },
+        {
+            "role": "user",
+            "content": " you\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Parece que has escrito \"you\" nuevamente, lo cual no me proporciona información clara sobre lo que necesitas. Estoy aquí para ayudarte y responder a cualquier pregunta que tengas sobre la Escuela Militar de Ingeniería (EMI) en Bolivia. Hasta ahora hemos hablado sobre su fundación en 1898 y su enfoque en la educación integral. Si hay algún tema específico o pregunta que te gustaría discutir, ¡házmelo saber!"
+        },
+        {
+            "role": "user",
+            "content": " [Spanish]\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Parece que deseas seguir en español, lo cual es genial. Estoy aquí para ayudarte a aprender más sobre la Escuela Militar de Ingeniería (EMI) en Bolivia. La EMI se especializa en formar profesionales en diversas áreas de la ingeniería, y además de ofrecer una sólida base académica, enfatiza valores como la disciplina y el liderazgo. Si tienes preguntas específicas sobre sus programas, su historia, sus misiones o cualquier otro aspecto relacionado, por favor, házmelo saber. ¡Estoy aquí para ayudar!"
+        },
+        {
+            "role": "user",
+            "content": " when the military engineering school was founded.\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "La EMI fue fundada en 1950."
+        },
+        {
+            "role": "user",
+            "content": " What careers does the military school have in engineering?\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Ofrece 5 carreras a nivel de Licenciatura y 5 a nivel Técnico Superior."
+        },
+        {
+            "role": "user",
+            "content": " [BLANK_AUDIO]\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Parece que has introducido \"[BLANK_AUDIO]\", lo cual indica que no hay una pregunta específica en este momento. Sin embargo, estoy aquí para ayudarte con cualquier información que desees sobre la Escuela Militar de Ingeniería (EMI) en Bolivia. Puedo hablar sobre su historial, programas académicos, logros de sus estudiantes, o cualquier otro tema de tu interés. Si tienes algo que desees preguntar o discutir, no dudes en hacerlo. ¡Estoy aquí para ayudar!"
+        },
+        {
+            "role": "user",
+            "content": " [BLANK_AUDIO]\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Parece que has vuelto a introducir \"[BLANK_AUDIO]\", lo cual indica que no hay una pregunta o comentario específico. Estoy aquí para brindarte información sobre la Escuela Militar de Ingeniería (EMI) en Bolivia. Puedes hablarme sobre temas relacionados con la educación en ingeniería, la historia de la institución, los requisitos de ingreso o incluso sobre la vida de los cadetes en la EMI. Si tienes algo en mente, ¡no dudes en compartirlo! Estoy aquí para ayudarte."
+        },
+        {
+            "role": "user",
+            "content": " [BLANK_AUDIO]\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Parece que continúas escribiendo \"[BLANK_AUDIO]\", lo cual sugiere que no hay una pregunta o comentario en este momento. Estoy aquí para responder cualquier consulta que tengas sobre la Escuela Militar de Ingeniería (EMI) en Bolivia. Puedes preguntarme sobre sus programas académicos, historia, infraestructura, actividades extracurriculares, o cualquier otro tema de tu interés. ¡No dudes en compartir tu pregunta o comentario cuando estés listo!"
+        },
+        {
+            "role": "user",
+            "content": " [BLANK_AUDIO]\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Parece que sigues introduciendo \"[BLANK_AUDIO]\", lo que indica que no hay un tema o pregunta específica en este momento. Sin embargo, estoy aquí para ofrecerte información sobre la Escuela Militar de Ingeniería (EMI) en Bolivia. Puedo hablar sobre sus diferentes carreras de ingeniería, la importancia de la formación militar en la educación, y los valores que promueve la institución, como el trabajo en equipo y la responsabilidad. Si decides formular una pregunta o compartir un tema de interés, estaré encantado de ayudarte. ¡Adelante cuando te sientas listo!"
+        },
+        {
+            "role": "user",
+            "content": " you\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Parece que mencionaste \"you\", lo que podría ser una manera de señalar que deseas hablar de algo relacionado contigo o quizás algo más personal. Sin embargo, me gustaría seguir centrado en la Escuela Militar de Ingeniería (EMI) en Bolivia. Si tienes alguna pregunta específica sobre esta institución o si quieres saber cómo puede influir en tu futuro académico y profesional, por favor házmelo saber. Estoy aquí para ayudarte con cualquier información que necesites. ¡No dudes en compartir tus pensamientos o preguntas!"
+        },
+        {
+            "role": "user",
+            "content": " \"When did the military school of engineering come to be founded?\"\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "La EMI fue fundada en 1950."
+        },
+        {
+            "role": "user",
+            "content": " \"Que Carreras ofrece de Escuela Militar de Ingeniería\"\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Ofrece 5 carreras a nivel de Licenciatura y 5 a nivel Técnico Superior."
+        },
+        {
+            "role": "user",
+            "content": " ¿Cuáles son estas carreras?\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "La Escuela Militar de Ingeniería (EMI) en Bolivia ofrece varias especialidades en el ámbito de la ingeniería. Aunque no tengo información específica sobre todas las carreras que se imparten actualmente, en general, las especialidades suelen incluir:\n\n1. **Ingeniería Civil**: Enfocada en la construcción y diseño de infraestructuras como edificios, puentes y caminos.\n2. **Ingeniería Electrónica**: Que abarca el estudio de circuitos, sistemas electrónicos y su aplicación en diversas tecnologías.\n3. **Ingeniería de Sistemas**: Centrada en el análisis, diseño y gestión de sistemas computacionales.\n4. **Ingeniería en Telecomunicaciones**: Que se dedica a la transmisión de información a través de diversos medios como redes de comunicación.\n5. **Ingeniería Mecánica**: Que se ocupa del diseño y fabricación de máquinas y sistemas mecánicos.\n\nAdemás de estas, la EMI podría ofrecer otras carreras relacionadas con la ingeniería, siempre con un enfoque en la formación integral de sus cadetes. Te recomiendo consultar directamente su sitio web o contactar a la institución para obtener información más específica y actualizada sobre su oferta académica. ¡Si tienes más preguntas, estaré encantado de ayudarte!"
+        },
+        {
+            "role": "user",
+            "content": " When did the Emmy go?\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Lo siento, pero no tengo información sobre \"When did the Emmy go?\" en el contexto de la Escuela Militar de Ingeniería (EMI) en Bolivia. Si te refieres a un evento específico, como una ceremonia, una graduación o algo relacionado con la historia de la institución, por favor proporciona más detalles y estaré encantado de ayudarte con la información disponible sobre la EMI."
+        },
+        {
+            "role": "user",
+            "content": " >> Cuando se fundó la escuela militar de Ingeniería.\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "La EMI fue fundada en 1950."
+        },
+        {
+            "role": "user",
+            "content": " [Spanish]\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Parece que has mencionado \"[Spanish]\", lo que indica que deseas continuar la conversación en español. Estoy aquí para ayudarte con cualquier pregunta o tema que desees explorar sobre la Escuela Militar de Ingeniería (EMI) en Bolivia. Puedes preguntar sobre su historia, las especialidades que ofrecen, los procesos de admisión, o cualquier otro aspecto que te interese. ¡No dudes en formular tu pregunta cuando estés listo!"
+        },
+        {
+            "role": "user",
+            "content": " Donde esta ubicada la escuela militar de ingeniería?\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "El campus EMI Lanza se encuentra en la calle Lanza entre Oruro y La Paz. El campus 23 de marzo se encuentra en la Av. 23 de marzo #13, Zona Muyurina."
+        },
+        {
+            "role": "user",
+            "content": " Quantas carreras tiene la escuela militar de ingeniería?\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Ofrece 5 carreras a nivel de Licenciatura y 5 a nivel Técnico Superior."
+        },
+        {
+            "role": "user",
+            "content": " ¿Cuáles son las carreras de la escuela militar de Ingeniería?\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Ingeniería Civil, Ingeniería Comercial, Ingeniería de Sistemas, Ingeniería Agroindustrial, Ingeniería Electrónica."
+        },
+        {
+            "role": "user",
+            "content": " (sighs)\r\n I'm not gonna stay around.\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Entiendo que puedas sentirte así. A veces, hablar de temas específicos puede no ser lo más interesante. La Escuela Militar de Ingeniería en Bolivia, por ejemplo, tiene un largo historial de formación de ingenieros con un enfoque en la defensa nacional y el desarrollo del país. ¿Quizás te gustaría conocer más sobre sus programas académicos, oportunidades de investigación o incluso su impacto en la ingeniería nacional? ¡Estoy aquí para ayudar!"
+        },
+        {
+            "role": "user",
+            "content": " >> Cuando se fundó la Escuela Militar de Ingeniería?\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "La EMI fue fundada en 1950."
+        },
+        {
+            "role": "user",
+            "content": " [ Silence ]\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Entiendo que a veces el silencio puede ser una señal de que no hay más interés o que tal vez estés pensando en otra cosa. Si en algún momento decides que quieres saber más acerca de la Escuela Militar de Ingeniería, podría compartirte detalles sobre su historia, programas específicos de ingeniería, o cómo se relaciona con el desarrollo tecnológico en Bolivia. Estoy aquí para conversar sobre lo que te interese. ¡Solo házmelo saber!"
+        },
+        {
+            "role": "user",
+            "content": " At this moment it is not working.\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Lamento que en este momento las cosas no estén funcionando como esperabas. La Escuela Militar de Ingeniería, con su enfoque en la formación de ingenieros capacitados para servir a la nación, tiene un papel importante en la educación técnica y científica de Bolivia. Si hay algo específico que te gustaría discutir o si hay alguna dificultad que estés enfrentando en relación a este tema, estoy aquí para escucharte y ayudarte en lo que necesites. ¡No dudes en compartir!"
+        },
+        {
+            "role": "user",
+            "content": " This is a matter of...\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Entiendo que esto puede tratarse de un tema importante para ti. La Escuela Militar de Ingeniería en Bolivia se centra en la formación de profesionales en diversas ramas de la ingeniería, que son esenciales para el desarrollo del país y su infraestructura. Si hay algún aspecto específico de la EMI que consideres relevante o que quisieras discutir, como sus programas académicos, investigaciones en curso o su contribución al avance tecnológico en Bolivia, estaré encantado de profundizar en eso contigo. ¡Tu perspectiva es valiosa y estoy aquí para ayudarte!"
+        },
+        {
+            "role": "user",
+            "content": " [BLANK_AUDIO]\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "La Escuela Militar de Ingeniería (EMI) de Bolivia es un prestigioso centro educativo que se enfoca en la formación de profesionales en diversas áreas de la ingeniería. Fundada en 1971, la EMI tiene como objetivo principal preparar a sus cadetes no solo en aspectos técnicos, sino también en valores militares y liderazgo. \n\nEn la EMI se imparten carreras como ingeniería civil, ingeniería electrónica, ingeniería de sistemas y muchas otras especialidades que son fundamentales para el desarrollo del país. La institución también promueve la investigación y el desarrollo tecnológico, contribuyendo a la innovación en el ámbito de la ingeniería en Bolivia. \n\nSi tienes preguntas más específicas sobre la EMI, sus programas, o algún aspecto particular, ¡estaré encantado de ayudarte!"
+        },
+        {
+            "role": "user",
+            "content": " you\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Parece que la pregunta \"you\" no proporciona suficiente información para entender exactamente qué necesitas saber. Si deseas información sobre la Escuela Militar de Ingeniería (EMI) en Bolivia o cualquier otro tema en relación a esta institución, por favor especifícalo y estaré encantado de proporcionarte la información que buscas. ¡Estoy aquí para ayudarte!"
+        },
+        {
+            "role": "user",
+            "content": " you\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Parece que \"you\" es un poco ambiguo y no me da suficiente contexto para entender tu pregunta. Si estás buscando información específica sobre la Escuela Militar de Ingeniería (EMI), como sus programas, historia o cualquier otro detalle, me encantaría ayudarte. Simplemente indícame lo que deseas saber y te proporcionaré la información que necesites. ¡Espero tu clarificación!"
+        },
+        {
+            "role": "user",
+            "content": " What is the military school of engineering?\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "La EMI fue fundada en 1950."
+        },
+        {
+            "role": "user",
+            "content": " What is the military engineering school?\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "La EMI fue fundada en 1950."
+        },
+        {
+            "role": "user",
+            "content": " ¿Cuántas calleras tiene?\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "La Escuela Militar de Ingeniería (EMI) ofrece varias carreras enfocadas en diferentes especialidades de la ingeniería. Aunque no tengo el número exacto de carreras que se imparten actualmente, tradicionalmente incluye especialidades como ingeniería civil, ingeniería electrónica, ingeniería de sistemas, ingeniería industrial y otras áreas técnicas. Además, la EMI también está comprometida con el desarrollo de programas de postgrado y formación continua. Si deseas información más precisa, te recomendaría verificar directamente con la institución o consultar su sitio web. ¡Estoy aquí para ayudarte con cualquier otra pregunta!"
+        },
+        {
+            "role": "user",
+            "content": " Quantas calleras tiene la Escuela Militar de Ingeniería?\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Ofrece 5 carreras a nivel de Licenciatura y 5 a nivel Técnico Superior."
+        },
+        {
+            "role": "user",
+            "content": " [BLANK_AUDIO]\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Parece que no he recibido una pregunta específica en tu mensaje. Si tienes alguna consulta o necesitas información sobre la Escuela Militar de Ingeniería (EMI) en Bolivia, por favor indícamelo. Estoy aquí para ayudarte con cualquier dato o detalle que necesites sobre la institución y su oferta académica. ¡Espero tu pregunta!"
+        },
+        {
+            "role": "user",
+            "content": " you\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Parece que \"you\" no proporciona suficiente contexto para responder de manera adecuada. Si tienes una pregunta específica sobre la Escuela Militar de Ingeniería (EMI) en Bolivia, como su historia, programas académicos o cualquier otro aspecto, no dudes en decírmelo. ¡Estoy aquí para ayudarte con lo que necesites!"
+        },
+        {
+            "role": "user",
+            "content": " >> Quantas carreras tiene la escuela militar de ingeniería?\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Ofrece 5 carreras a nivel de Licenciatura y 5 a nivel Técnico Superior."
+        },
+        {
+            "role": "user",
+            "content": " [BLANK_AUDIO]\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Parece que no hay una pregunta clara en tu mensaje. Si necesitas información sobre la Escuela Militar de Ingeniería (EMI) en Bolivia, como sus carreras, historia, o cualquier otro tópico relacionado, por favor házmelo saber. Estoy aquí para asistirte con lo que necesites. ¡Espero tu consulta!"
+        },
+        {
+            "role": "user",
+            "content": " [BLANK_AUDIO]\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Parece que no he recibido una pregunta o comentario claro en tu mensaje. Si tienes alguna inquietud o duda sobre la Escuela Militar de Ingeniería (EMI) en Bolivia, como sus programas académicos, requisitos de admisión o cualquier otro aspecto relevante, por favor házmelo saber. Estoy aquí para ayudarte con cualquier información que necesites. ¡Espero tu consulta!"
+        },
+        {
+            "role": "user",
+            "content": " When did the military school of engineering start?\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "La EMI fue fundada en 1950."
+        },
+        {
+            "role": "user",
+            "content": " What is the military school of engineering?\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "La EMI fue fundada en 1950."
+        },
+        {
+            "role": "user",
+            "content": " [Spanish]\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Parece que solo has escrito \"[Spanish]\", lo que no me da suficiente información para responder a tu pregunta. Si tienes alguna consulta específica en español sobre la Escuela Militar de Ingeniería (EMI) en Bolivia, como sus especialidades, planes de estudio o historia, por favor indícamelo. Estoy aquí para ayudarte con cualquier información que necesites. ¡Espero tu pregunta!"
+        },
+        {
+            "role": "user",
+            "content": " When did the military engineering school collapse?\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "La EMI fue fundada en 1950."
+        },
+        {
+            "role": "user",
+            "content": " [Spanish]\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Nuevamente, parece que has indicado solo \"[Spanish]\", lo que no me proporciona detalles para poder ayudarte. Si tienes una pregunta específica en español relacionada con la Escuela Militar de Ingeniería (EMI) en Bolivia, como su misión, visión, especialidades ofrecidas, o proceso de admisión, por favor compártela. Estoy aquí para brindarte toda la información que necesites. ¡Espero tu consulta!"
+        },
+        {
+            "role": "user",
+            "content": " [Spanish]\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Parece que continúas utilizando \"[Spanish]\" como tu pregunta, lo que no me proporciona detalles suficientes para ofrecerte una respuesta. Si tienes algo específico que deseas saber sobre la Escuela Militar de Ingeniería (EMI) en Bolivia, como sus programas académicos, historia o cualquier otro aspecto relevante, no dudes en decírmelo. Estoy aquí para ayudarte con cualquier información que necesites. ¡Espero tu consulta!"
+        },
+        {
+            "role": "user",
+            "content": " [Spanish]\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Parece que sigues escribiendo \"[Spanish]\" como tu pregunta, lo que no me permite entender qué información específica buscas sobre la Escuela Militar de Ingeniería (EMI) en Bolivia. Si puedes proporcionar un tema o pregunta concreta, como los programas que ofrecen, sus carreras, su historia, o cualquier otro detalle, estaré encantado de ayudarte. ¡Espero tu consulta!"
+        },
+        {
+            "role": "user",
+            "content": " How many careers does the military school have in engineering?\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Ofrece 5 carreras a nivel de Licenciatura y 5 a nivel Técnico Superior."
+        },
+        {
+            "role": "user",
+            "content": " What are the careers of the military school of engineering?\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Ingeniería Civil, Ingeniería Comercial, Ingeniería de Sistemas, Ingeniería Agroindustrial, Ingeniería Electrónica."
+        },
+        {
+            "role": "user",
+            "content": " When did the military school of engineering come to be founded?\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "La EMI fue fundada en 1950."
+        },
+        {
+            "role": "user",
+            "content": " When did the military school of engineering start?\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "La EMI fue fundada en 1950."
+        },
+        {
+            "role": "user",
+            "content": " when the military engineering school was founded.\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "La EMI fue fundada en 1950."
+        },
+        {
+            "role": "user",
+            "content": " What career do you have at the Military School of Engineering?\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Ofrece 5 carreras a nivel de Licenciatura y 5 a nivel Técnico Superior."
+        },
+        {
+            "role": "user",
+            "content": " when the military engineering school was founded.\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "La EMI fue fundada en 1950."
+        },
+        {
+            "role": "user",
+            "content": " Thank you.\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "La Escuela Militar de Ingeniería (EMI) de Bolivia se pone un gran énfasis en formar profesionales competentes en diversas ramas de la ingeniería. Ofrece programas académicos que abarcan desde la ingeniería civil hasta la ingeniería de sistemas, preparando a sus estudiantes no solo en conocimientos técnicos, sino también en valores como la disciplina y el trabajo en equipo. Además, la EMI tiene un enfoque en la capacitación militar, lo que significa que sus egresados están preparados tanto para el ámbito civil como para servir en las Fuerzas Armadas de Bolivia. \n\nSi tienes más preguntas o necesitas detalles específicos sobre algún aspecto de la EMI, estaré encantado de ayudarte."
+        },
+        {
+            "role": "user",
+            "content": " (speaking in foreign language)\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "La Escuela Militar de Ingeniería (EMI) en Bolivia es una institución educativa destacada que se especializa en la formación de ingenieros en diversas disciplinas técnicas y científicas. Fue fundada en 1870 y tiene como objetivo principal preparar a profesionales que puedan contribuir al desarrollo del país, especialmente en áreas relacionadas con la ingeniería y la defensa nacional. \n\nLa EMI ofrece programas de grado y posgrado en diferentes ramas de la ingeniería, incluyendo ingeniería civil, ingeniería electrónica, ingeniería de sistemas, entre otras. Además, el enfoque de la escuela combina la teoría con la práctica, lo que permite a los estudiantes realizar proyectos que tienen aplicaciones en el mundo real.\n\nUno de los aspectos interesantes de la EMI es su vinculación con las Fuerzas Armadas de Bolivia, donde muchos de sus graduados sirven en diferentes capacidades, tanto en el ámbito militar como en el civil. La escuela también cuenta con un fuerte componente de disciplina y liderazgo, formando no solo ingenieros competentes, sino también profesionales comprometidos con el servicio a la nación.\n\n¿Te gustaría saber más sobre algún aspecto específico de la EMI?"
+        },
+        {
+            "role": "user",
+            "content": " when the Military Engineering School was founded.\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "La EMI fue fundada en 1950."
+        },
+        {
+            "role": "user",
+            "content": " What is the main goal of the military engineering school?\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Formar profesionales íntegros con sólidos conocimientos científicos y tecnológicos en ingeniería, contribuyendo al desarrollo del país."
+        },
+        {
+            "role": "user",
+            "content": "Hola\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Hola, ¿en que puedo ayudarte?"
+        },
+        {
+            "role": "user",
+            "content": "Quien eres?\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Soy un asistente virtual de la Escuela Militar de Ingenieria y estoy aqui para resolver tus preguntas"
+        },
+        {
+            "role": "user",
+            "content": "Quien eres?\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "Soy un asistente virtual de la Escuela Militar de Ingenieria y estoy aqui para resolver tus preguntas"
+        },
+        {
+            "role": "user",
+            "content": " When did you founded the military school of engineering?\r\n"
+        },
+        {
+            "role": "assistant",
+            "content": "La EMI fue fundada en 1950."
+        }
+    ]
+}

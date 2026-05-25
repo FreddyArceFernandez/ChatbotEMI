@@ -1,0 +1,34 @@
+from collections import deque
+
+def bfs(grafo, inicio, objetivo):
+    visitado = set()
+    cola = deque([[inicio]])
+
+    while cola:
+        camino = cola.popleft()
+        nodo = camino[-1]
+
+        if nodo == objetivo:
+            return camino
+
+        if nodo not in visitado:
+            visitado.add(nodo)
+            for vecino in grafo.get(nodo, []):
+                nuevo_camino = list(path := camino + [vecino])
+                cola.append(nuevo_camino)
+
+    return None
+
+# Ejemplo de grafo del campus
+grafo_campus = {
+    'Entrada': ['Aulas', 'Administración'],
+    'Aulas': ['Laboratorios'],
+    'Laboratorios': ['Biblioteca'],
+    'Administración': ['Biblioteca'],
+    'Biblioteca': ['Plaza'],
+    'Plaza': []
+}
+
+# Búsqueda del camino más corto
+camino = bfs(grafo_campus, 'Entrada', 'Plaza')
+print("Camino más corto:", camino)

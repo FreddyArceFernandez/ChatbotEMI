@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Gestión de Tabla</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"/>
+</head>
+<body>
+  <div class="container mt-5">
+    <h2 id="table-title">Tabla: </h2>
+    <button class="btn btn-secondary mb-3" onclick="window.location.href='index.html'">Volver</button>
+    <div id="data-section"></div>
+    <h4 class="mt-5">Agregar nuevo registro</h4>
+    <form id="insert-form" class="row g-3"></form>
+  </div>
+
+  <script>
+    const urlParams = new URLSearchParams(window.location.search);
+    const table = urlParams.get("table");
+    document.getElementById("table-title").innerText += table;
+
+    let columns = [];
+
+    // Obtener columnas y datos
+    fetch(`http://localhost:8001/tables/${table}/data`)
+      .then(res => res.json())
+      .then(data => {
+        if (!data.columns || !data.rows) {
+          document.getElementById("data-section").innerText = "No se pudo obtener la información.";
+          return;
+        }
+
+        columns = data.columns;
+        renderTable(data.columns, data.rows);
+        renderInsertForm(data.columns);
+      });
+
+    function renderTable(columns, rows) {
+      let html = `<table class="table table-bordered"><thead><tr>`;
+      columns.forEach(col => {
+        html += `<th>${col}</th>`;
+      });
+      html += `<th>Acciones</th></tr></thead><tbody>`;
+
+      rows.forEach(row => {
+        html += `<tr>`;
+        columns.forEach(col => {
+          html += `<td>${row[col]}</td>`;
+        });
+        html += `
+          <td>
+            <button class="btn btn-danger btn-sm" onclick="deleteRow('${row[columns[0]]}')">Eliminar</button>
+          </td>
+        </tr>`;
+      });
+
+      html += `</tbody></table>`;
+      document.getElementById("data-section").innerHTML = html;
+    }
+
+    function renderInsertForm(columns) {
+      const form = document.getElementById("insert-form");
+      columns.forEach(col => {
+        const div = document.createElement("div");
+        div.className = "col-md-4";
+        div.innerHTML = `
+          <label class="form-label">${col}</label>
+          <input type="text" class="form-control" name="${col}">
+        `;
+        form.appendChild(div);
+      });
+
+      const btn = document.createElement("div");
+      btn.className = "col-12";
+      btn.innerHTML = `<button type="submit" class="btn btn-primary">Insertar</button>`;
+      form.appendChild(btn);
+
+      form.addEventListener("submit", (e) => {
+        e.preventDefault();
+        const formData = new FormData(form);
+        const rowData = {};
+        columns.forEach(col => {
+          rowData[col] = formData.get(col);
+        });
+
+        fetch(`http://localhost:8001/tables/${table}/insert`, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ row: rowData })
+        })
+        .then(res => res.json())
+        .then(data => {
+          alert(data.message);
+          location.reload();
+        });
+      });
+    }
+
+    function deleteRow(id) {
+      if (!confirm("¿Seguro que deseas eliminar este registro?")) return;
+
+      fetch(`http://localhost:8001/tables/${table}/delete`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ id })
+      })
+      .then(res => res.json())
+      .then(data => {
+        alert(data.message);
+        location.reload();
+      });
+    }
+  </script>
+</body>
+</html>

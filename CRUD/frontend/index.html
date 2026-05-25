@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Gestor de Base de Datos</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"/>
+</head>
+<body>
+  <div class="container mt-5">
+    <h2 class="mb-4">Gestión de Tablas (emi_db)</h2>
+    <div class="d-flex justify-content-between mb-3">
+      <button class="btn btn-success" onclick="window.location.href='create_table.html'">Crear nueva tabla</button>
+    </div>
+    <ul class="list-group" id="table-list"></ul>
+  </div>
+
+  <script>
+    fetch("http://localhost:8001/tables")
+      .then(res => res.json())
+      .then(tables => {
+        const list = document.getElementById("table-list");
+        tables.forEach(table => {
+          const li = document.createElement("li");
+          li.className = "list-group-item d-flex justify-content-between align-items-center";
+          li.innerHTML = `
+            ${table}
+            <button class="btn btn-primary btn-sm" onclick="window.location.href='table_view.html?table=${table}'">Gestionar</button>
+          `;
+          list.appendChild(li);
+        });
+      });
+  </script>
+</body>
+</html>

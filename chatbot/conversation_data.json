@@ -1,0 +1,347 @@
+{
+    "preguntas_frecuentes": [
+      {
+        "pregunta": "¿Dónde está ubicada la Escuela Militar de Ingneria?",
+        "respuesta": "El campus EMI Lanza se encuentra en la calle Lanza entre Oruro y La Paz. El campus 23 de marzo se encuentra en la Av. 23 de marzo #13, Zona Muyurina."
+      },  
+
+      {
+        "pregunta": "¿Cuáles son las carreras de la Escuela Militar de Ingneria?",
+        "respuesta": "Ingeniería Civil, Ingeniería Comercial, Ingeniería de Sistemas, Ingeniería Agroindustrial, Ingeniería Electrónica."
+      },
+      {
+        "pregunta": "¿Cuál es la duración de las carreras de licenciatura en la Escuela Militar de Ingenenieria?",
+        "respuesta": "Las carreras de licenciatura tienen una duración de 5 años."
+      },
+
+      {
+        "pregunta": "¿La Escuela Militar de Ingneria es una institución pública o privada?",
+        "respuesta": "Es una institución pública."
+      },
+      {
+        "pregunta": "¿Cuál es el objetivo principal de la Escuela Militar de Ingneria?",
+        "respuesta": "Formar profesionales íntegros con sólidos conocimientos científicos y tecnológicos en ingeniería, contribuyendo al desarrollo del país."
+      },
+      {
+        "pregunta": "¿La la Escuela Militar de Ingneria está reconocida por el Sistema de la Universidad Boliviana(CUB)?",
+        "respuesta": "Sí, la EMI está reconocida como institución autorizada para la formación de ingenieros."
+      },
+      {
+        "pregunta": "Hola",
+        "respuesta": "Hola, en que te puedo ayudar?"
+      },
+      {
+        "pregunta": "Quien eres?",
+        "respuesta": "Soy un asiste virtual de la Escuela Militar de Ingeneria y estoy aqui para servirte"
+      },
+      {
+        "pregunta": "Donde se puede realizar el pago?",
+        "respuesta": "Equipado con computadoras de gama alta es un espacio diseñado para tareas que demandan alto poder de procesamiento"
+      },
+      {
+        "pregunta": "¿Dónde puedo obtener más información sobre la Escuela Militar de Ingneria Cochabamba?",
+        "respuesta": "Puedes visitar el sitio oficial de la EMI en Cochabamba: https://cochabamba.emi.edu.bo/"
+      },
+      {
+        "pregunta": "¿Dónde puedo obtener más información sobre la EMI?",
+        "respuesta": "Puedes visitar el sitio oficial de la EMI en Cochabamba: https://cochabamba.emi.edu.bo/"
+      },
+      {
+        "pregunta": "¿Cuándo comienzan las inscripciones en la EMI?",
+        "respuesta": "Las inscripciones generalmente se abren a finales del año académico anterior y continúan hasta poco antes del inicio de clases."
+      },
+      {
+        "pregunta": "¿Cuáles son los requisitos para inscribirse en la EMI?",
+        "respuesta": "Fotocopia del título de bachiller. Certificado de nacimiento. Fotocopia del carnet de identidad. Fotografías tamaño carnet. Formulario de inscripción proporcionado por la EMI."
+      },
+      {
+        "pregunta": "¿La EMI realiza pruebas de admisión?",
+        "respuesta": "Sí, se lleva a cabo un examen de admisión para evaluar los conocimientos básicos del postulante."
+      },
+      {
+        "pregunta": "¿Qué materias debo estudiar para el examen de admisión?",
+        "respuesta": "Matemáticas, Física, Química, y Razonamiento Lógico."
+      },
+      {
+        "pregunta": "¿Se ofrecen cursos preuniversitarios en la EMI?",
+        "respuesta": "Sí, la EMI organiza cursos preuniversitarios para preparar a los postulantes."
+      },
+      {
+        "pregunta": "¿Qué costo tiene el curso preuniversitario?",
+        "respuesta": "Los costos pueden variar dependiendo de la duración y la cantidad de materias incluidas."
+      },
+      {
+        "pregunta": "¿Qué sucede si no apruebo el examen de admisión?",
+        "respuesta": "Puedes intentarlo nuevamente en el siguiente período de admisión o inscribirte en los cursos de nivelación que ofrece la EMI."
+      },
+      {
+        "pregunta": "¿Hay algún beneficio para los estudiantes con altas calificaciones en el colegio?",
+        "respuesta": "Sí, los mejores bachilleres pueden postularse a becas especiales de la EMI."
+      },
+      {
+        "pregunta": "¿Puedo transferirme desde otra universidad a la EMI?",
+        "respuesta": "Sí, pero deberás presentar tus documentos académicos y cumplir con los requisitos de convalidación de materias."
+      },
+      {
+        "pregunta": "¿Cómo es la vida estudiantil en la EMI?",
+        "respuesta": "La vida universitaria en la EMI es dinámica, con actividades académicas rigurosas complementadas con eventos culturales, deportivos y de integración estudiantil."
+      },
+      {
+        "pregunta": "¿Hay actividades extracurriculares en la EMI?",
+        "respuesta": "Sí, la EMI organiza talleres de música, danza, deportes, y clubes de debate."
+      },
+      {
+        "pregunta": "¿La EMI celebra festividades estudiantiles?",
+        "respuesta": "Sí, se realizan eventos como la bienvenida a los nuevos estudiantes y celebraciones por aniversarios de la institución."
+      },
+      {
+        "pregunta": "¿Los estudiantes tienen acceso a bibliotecas en la EMI?",
+        "respuesta": "Sí, hay bibliotecas con recursos físicos y digitales disponibles para todos los estudiantes."
+      },
+      {
+        "pregunta": "¿La EMI tiene cafeterías o áreas de recreación?",
+        "respuesta": "Sí, ambas están disponibles en sus campus."
+      },
+      {
+        "pregunta": "¿La EMI organiza ferias científicas o exposiciones?",
+        "respuesta": "Sí, las ferias científicas son una oportunidad para que los estudiantes presenten sus proyectos innovadores."
+      },
+      {
+        "pregunta": "¿Qué horarios maneja la EMI?",
+        "respuesta": "Hay turnos matutino, vespertino y nocturno para adaptarse a las necesidades de los estudiantes."
+      },
+      {
+        "pregunta": "¿Puedo trabajar mientras estudio en la EMI?",
+        "respuesta": "Sí, los horarios flexibles permiten combinar el estudio con el trabajo."
+      },
+      {
+        "pregunta": "¿Qué servicios de apoyo al estudiante ofrece la EMI?",
+        "respuesta": "Servicios de tutorías, consejería académica, y soporte psicológico."
+      },
+      {
+        "pregunta": "¿Qué deportes se pueden practicar en la EMI?",
+        "respuesta": "Fútbol, básquetbol, voleibol, atletismo y natación."
+      },
+      {
+        "pregunta": "¿La EMI tiene su propio equipo deportivo?",
+        "respuesta": "Sí, los equipos de la EMI compiten en torneos locales y nacionales."
+      },
+      {
+        "pregunta": "¿Qué eventos culturales organiza la EMI?",
+        "respuesta": "Presentaciones de danza, conciertos de la banda estudiantil, y concursos literarios."
+      },
+      {
+        "pregunta": "¿Los estudiantes pueden unirse a la banda de música de la EMI?",
+        "respuesta": "Sí, la EMI cuenta con una banda musical abierta a estudiantes con habilidades musicales."
+      },
+      {
+        "pregunta": "¿Qué beneficios tiene participar en actividades culturales o deportivas?",
+        "respuesta": "Los estudiantes destacados pueden optar por becas parciales."
+      },
+      {
+        "pregunta": "¿Hay servicios de tutoría en la EMI?",
+        "respuesta": "Sí, se ofrecen tutorías en materias clave para apoyar a los estudiantes con dificultades académicas."
+      },
+      
+      {
+        "pregunta": "¿Cómo puedo acceder a materiales de estudio adicionales?",
+        "respuesta": "Los estudiantes pueden acceder a los laboratorios, bibliotecas y recursos digitales de la EMI."
+      },
+      {
+        "pregunta": "¿La EMI tiene convenios con empresas para pasantías?",
+        "respuesta": "Sí, hay acuerdos con empresas públicas y privadas para facilitar la inserción laboral de sus estudiantes."
+      },
+      {
+        "pregunta": "¿Qué porcentaje de los egresados de la EMI encuentra trabajo rápidamente?",
+        "respuesta": "Más del 90% de los egresados encuentra empleo en su área de especialización dentro de los primeros seis meses."
+      },
+      {
+        "pregunta": "¿Los egresados de la EMI son reconocidos en el mercado laboral?",
+        "respuesta": "Sí, los egresados de la EMI tienen un prestigio destacado debido a su formación integral."
+      },
+      {
+        "pregunta": "¿La EMI participa en proyectos de investigación?",
+        "respuesta": "Sí, los estudiantes y docentes participan activamente en proyectos de investigación científica y tecnológica."
+      },
+      {
+        "pregunta": "¿Puedo desarrollar mi propio proyecto en la EMI?",
+        "respuesta": "Sí, la EMI fomenta el emprendimiento y brinda apoyo para el desarrollo de proyectos estudiantiles."
+      },
+      {
+        "pregunta": "¿Qué tecnologías innovadoras se utilizan en la EMI?",
+        "respuesta": "La EMI utiliza simuladores, software especializado y laboratorios de última generación."
+      },
+      {
+        "pregunta": "¿Qué es la Escuela Militar de Ingeniería?",
+        "respuesta": "La Escuela Militar de Ingeniería es una institución educativa que se enfoca en la formación de profesionales en el campo de la ingeniería, con un fuerte énfasis en principios éticos, responsabilidad social, espíritu emprendedor y liderazgo."
+      },
+      {
+        "pregunta": "¿Cuándo se fundó la EMI?",
+        "respuesta": "La EMI fue fundada en 1950."
+      },
+       {
+        "pregunta": "¿Cuando se fundo la EMI?",
+        "respuesta": "La EMI fue fundada en 1950."
+      },
+      {
+        "pregunta": "¿Cuándo se fundó la Escuela Militar de Ingeniería?",
+        "respuesta": "La EMI fue fundada en 1950."
+      },
+      {
+        "pregunta": "¿La Escuela Militar de Ingeniería es pública o privada?",
+        "respuesta": "Es una institución pública."
+      },
+      {
+        "pregunta": "¿La EMI está reconocida por el Comité Ejecutivo de la Universidad Boliviana (CEUB)?",
+        "respuesta": "Sí, la EMI es parte del CEUB, garantizando una educación de alto nivel."
+      },
+      {
+        "pregunta": "¿Cuál es el objetivo principal de la EMI?",
+        "respuesta": "Formar profesionales íntegros con sólidos conocimientos científicos y tecnológicos en ingeniería, contribuyendo al desarrollo del país."
+      },
+      {
+        "pregunta": "¿Dónde puedo obtener más información oficial sobre la EMI en Cochabamba?",
+        "respuesta": "Puedes visitar el sitio oficial de la EMI en Cochabamba: https://cochabamba.emi.edu.bo/"
+      },
+      {
+        "pregunta": "¿Dónde se encuentra el campus EMI Lanza?",
+        "respuesta": "El campus EMI Lanza se encuentra en la calle Lanza entre Oruro y La Paz."
+      },
+      {
+        "pregunta": "¿Dónde se encuentra el campus EMI 23 de Marzo?",
+        "respuesta": "El campus 23 de Marzo se encuentra en la Av. 23 de marzo, entre Cine Center y Muyurina."
+      },
+
+      {
+        "pregunta": "¿Qué carreras de licenciatura tiene la EMI?",
+        "respuesta": "Ingeniería Civil, Ingeniería Comercial, Ingeniería de Sistemas, Ingeniería Agroindustrial, Ingeniería Electrónica."
+      },
+
+      {
+        "pregunta": "¿Cual es la direccion de la emi?",
+        "respuesta": "La dirección de la Escuela Militar de Ingeniería (EMI) en el campus Emi Lanza es C/ Lanza entre Oruro y La Paz."
+      },
+      {
+        "pregunta": "¿Qué carreras se imparten en el campus EMI Lanza?",
+        "respuesta": "Ingeniería en Sistemas Electrónicos, Ingeniería Comercial, Ingeniería de Sistemas."
+      },
+      {
+        "pregunta": "¿Qué carreras se imparten en el campus EMI 23 de Marzo?",
+        "respuesta": "Ingeniería Civil, Ingeniería Industrial, Ingeniería Agroindustrial."
+      },
+      {
+        "pregunta": "¿Qué duración tienen las carreras de licenciatura?",
+        "respuesta": "Las carreras de licenciatura tienen una duración de 5 años."
+      },
+      {
+        "pregunta": "¿Qué tipo de laboratorios tiene la EMI?",
+        "respuesta": "La EMI cuenta con laboratorios especializados como: Laboratorio Bolívar, Laboratorio Sucre, Laboratorio de Redes, Laboratorio de Electrónica."
+      },
+      {
+        "pregunta": "¿Qué ofrece el Laboratorio Bolívar?",
+        "respuesta": "Está equipado con computadoras de gama alta y está diseñado para tareas que demandan alto poder de procesamiento."
+      },
+      {
+        "pregunta": "¿Qué ofrece el Laboratorio de Redes?",
+        "respuesta": "Cuenta con hardware, software y herramientas especializadas para estudiar y analizar redes de computadoras."
+      },
+
+      {
+        "pregunta": "¿La EMI dispone de aulas especializadas?",
+        "respuesta": "Sí, dispone de aulas diseñadas para facilitar el proceso de enseñanza-aprendizaje."
+      },
+      {
+        "pregunta": "¿La EMI cuenta con auditorio?",
+        "respuesta": "Sí, el auditorio está diseñado para albergar eventos como conferencias, presentaciones y charlas."
+      },
+      {
+        "pregunta": "¿Qué tipos de becas ofrece la EMI?",
+        "respuesta": "Ofrece becas como: Honor, Bachilleres Convocatoria Pública, Deportiva, Ayudantía, Excelencia Académica, Investigación, Cultural, Olimpiadas Ciencias Exactas, Invitación Directa, Social, Servicio Militar Obligatorio, Al Valor y Talento Boliviano, Institucional, Solidaridad y Exterior."
+      },
+      {
+        "pregunta": "¿Qué cubre la Beca Honor?",
+        "respuesta": "El beneficio alcanza el 100% de la colegiatura."
+      },
+      {
+        "pregunta": "¿Qué cubre la Beca de Bachilleres por Convocatoria Pública?",
+        "respuesta": "Cubre entre el 80% y 100% de la colegiatura."
+      },
+      {
+        "pregunta": "¿Qué cubre la Beca Deportiva?",
+        "respuesta": "Cubre desde el 30% al 70% de la colegiatura."
+      },
+      {
+        "pregunta": "¿Qué cubre la Beca de Ayudantía?",
+        "respuesta": "Cubre desde el 30% al 90% de la colegiatura."
+      },
+      {
+        "pregunta": "¿Qué cubre la Beca de Excelencia Académica?",
+        "respuesta": "Cubre entre el 30% y 90% de la colegiatura."
+      },
+      {
+        "pregunta": "¿Qué cubre la Beca de Investigación?",
+        "respuesta": "Cubre desde el 50% al 100% de la colegiatura."
+      },
+      {
+        "pregunta": "¿Qué cubre la Beca Cultural?",
+        "respuesta": "15% en Danza y Coro, 20% a 40% para la Banda de Música."
+      },
+      {
+        "pregunta": "¿Qué cubre la Beca Olimpiadas Ciencias Exactas?",
+        "respuesta": "Desde el 30% al 90% de la colegiatura."
+      },
+      {
+        "pregunta": "¿Qué cubre la Beca de Invitación Directa?",
+        "respuesta": "100% del Registro Académico, Colegiatura y Extensión Universitaria."
+      },
+      {
+        "pregunta": "¿Qué cubre la Beca Social?",
+        "respuesta": "Desde el 10% hasta el 90% de la colegiatura."
+      },
+      {
+        "pregunta": "¿Qué cubre la Beca por Servicio Militar Obligatorio?",
+        "respuesta": "100% del Registro Académico, Colegiatura, Extensión Universitaria y Seguro Médico."
+      },
+      {
+        "pregunta": "¿Qué cubre la Beca “Al valor y talento boliviano”?",
+        "respuesta": "100% del Registro Académico, Colegiatura, Extensión Universitaria y Servicio Médico Estudiantil."
+      },
+      {
+        "pregunta": "¿Qué cubre la Beca Institucional?",
+        "respuesta": "100% del Registro Académico y Colegiatura del semestre a cursar."
+      },
+      {
+        "pregunta": "¿Qué cubre la Beca de Solidaridad?",
+        "respuesta": "100% del Registro Académico, Colegiatura, Extensión Universitaria y Seguro Médico."
+      },
+      {
+        "pregunta": "¿Qué es la Beca Exterior?",
+        "respuesta": "Permite realizar estudios de grado en una universidad o instituto del exterior."
+      },
+      {
+        "pregunta": "¿Qué beneficio obtengo al concluir mis estudios?",
+        "respuesta": "Recibirás de manera inmediata el Título en Provisión Nacional."
+      },
+      {
+        "pregunta": "¿Qué tipo de libreta militar otorga la EMI?",
+        "respuesta": "La Libreta de Servicio Militar con el grado de Subteniente de Reserva."
+      },
+      {
+        "pregunta": "¿La EMI tiene laboratorios especializados y simuladores?",
+        "respuesta": "Sí, para cada carrera, brindando una experiencia práctica de calidad."
+      },
+      {
+        "pregunta": "¿Qué tipo de alianzas tiene la EMI?",
+        "respuesta": "Alianzas con unidades militares, empresas privadas y públicas para mejorar la empleabilidad de sus estudiantes."
+      },
+      {
+        "pregunta": "¿Qué tipo de alianzas tiene la EMI?",
+        "respuesta": "Alianzas con unidades militares, empresas privadas y públicas para mejorar la empleabilidad de sus estudiantes."
+      },
+      {
+        "pregunta": "¿carreras a nivel licenciatura?",
+        "respuesta": "Ingeniería Civil, Ingeniería en Sistemas Electrónicos, Ingeniería Industrial, Ingeniería Comercial, Ingeniería de Sistemas, Ingeniería Agroindustrial y Ingeniería en Sistemas"
+      }
+    ]
+  }
+  
