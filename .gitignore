@@ -1,19 +1,9 @@
-# Entornos virtuales
-tts_env/
-venv/
-
-# Variables de entorno
-.env
-
-# Cache de Python
 __pycache__/
-*/__pycache__/
-
-# Bases de datos
-*.db
-
-# Logs
+*.pyc
 *.log
-
-# VS Code
+*.db
+.env
 .vscode/
+node_modules/
+.DS_Store
+    
