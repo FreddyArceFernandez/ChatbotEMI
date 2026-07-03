@@ -97,8 +97,5 @@ uvicorn src.admin.backend.main:app --reload
 ## Estado del proyecto
 
 Proyecto de tesis, funcional en su núcleo (lógica de IA + integración Unity + panel admin).
-En limpieza y documentación continua para portafolio.
 
-## Licencia
 
-MIT
